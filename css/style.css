@@ -999,10 +999,10 @@ header {
   	cursor: pointer;
 }
 
-#back-to-top:after {
-    content: "\f106";
-    font-family: 'FontAwesome';
-}
+//#back-to-top:after {
+//    content: "\f106";
+//    font-family: 'FontAwesome';
+//}
 
 #back-to-top:hover {
     opacity: 0.8;
